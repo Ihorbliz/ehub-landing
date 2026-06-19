@@ -187,8 +187,7 @@ export default function App() {
             alt="E-HUB Energy Storage and BMW CE 04"
             className="w-full h-full object-cover object-center opacity-90"
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-[#0a1825] via-[#0a1825]/50 to-[#0a1825]/5" />
-          <div className="absolute inset-0 bg-gradient-to-r from-[#0a1825]/95 via-[#0a1825]/50 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-[#0a1825]/80 via-[#0a1825]/20 to-transparent sm:via-transparent sm:from-transparent" />
         </div>
 
         <div className="relative max-w-6xl mx-auto px-4 sm:px-6 pb-24 pt-24 sm:pt-32 min-h-[90vh] flex flex-col justify-center">
